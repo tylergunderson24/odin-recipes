@@ -1,0 +1,31 @@
+.subsection {
+    font-size: large;
+    color: black;
+    font-weight: bold;
+}
+
+.premier {
+    background-color: aqua;
+}
+
+.header {
+    background-color: blue;
+}
+
+.bullet {
+    font-size: medium;
+    color: black;
+    font-weight: 500;
+}
+
+.single {
+    font-size: medium;
+    color: gray;
+    background-color: red;
+    font-weight: 500;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
