@@ -1,3 +1,8 @@
+.body {
+    background: white;
+    margin: 0 auto;
+}
+
 .subsection {
     font-size: large;
     color: black;
@@ -10,19 +15,25 @@
 
 .header {
     background-color: blue;
+    text-align: center;
+    padding: 32px;
 }
 
 .bullet {
     font-size: medium;
     color: black;
     font-weight: 500;
+    padding: 8px;
+    border: 1px solid red;
+    
 }
 
 .single {
     font-size: medium;
-    color: gray;
-    background-color: red;
+    color: black;
+    background-color: cornflowerblue;
     font-weight: 500;
+    padding: 0 auto;
 }
 
 img {
